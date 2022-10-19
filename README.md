@@ -12,8 +12,6 @@
 [<img align="left" alt="antonbabenko | Facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="antonbabenko | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![](https://komarev.com/ghpvc/?username=niyialimi&style=flat-square)
-
 [website]: https://niyialimi.github.io
 [twitter]: https://twitter.com/alimioyeniyi
 [linkedin]: https://linkedin.com/in/niyialimi
