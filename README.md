@@ -13,7 +13,6 @@
 [<img align="left" alt="antonbabenko | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ![](https://komarev.com/ghpvc/?username=niyialimi&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=393243)
 
 [website]: https://niyialimi.github.io
 [twitter]: https://twitter.com/alimioyeniyi
