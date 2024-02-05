@@ -2,17 +2,17 @@
 - 👀 I’m interested in Cloud Engineering, Automation, Software Development
 - 💞️ I’m looking to collaborate on AWS Cloud Engineering projects
 - 📁 Terraform | Python | Bash | Linux | Jenkins | Docker | Packer | Datadog | JSON | YAML | Git | MySQL | PHP | HTML | CSS
-- 📫 How to reach me - neyonill@yahoo.com
+- 📫 How to reach me - me@niyialimi.com
 
 ### Connect with me
 
-[<img align="left" alt="niyialimi.github.io" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alimioyeniyi | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="niyialimi" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="niyialimi | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="niyialimi | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="antonbabenko | Facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="antonbabenko | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="niyialimi | Facebook" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="niyialimi | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://niyialimi.github.io
+[website]: https://niyialimi.com
 [twitter]: https://twitter.com/alimioyeniyi
 [linkedin]: https://linkedin.com/in/niyialimi
 [facebook]: https://facebook.com/alimioyeniyi
