@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niyi Alimi @niyialimi
-- 👀 I’m interested in Cloud Engineering, Automation, Software Development
+- 👀 I’m interested in Cloud and Platfrom Engineering, Automation, Software Development
 - 💞️ I’m looking to collaborate on AWS Cloud Engineering projects
 - 📁 Terraform | Python | Bash | Linux | Jenkins | Docker | Packer | Datadog | JSON | YAML | Git | MySQL | PHP | HTML | CSS
 - 📫 How to reach me - me@niyialimi.com
